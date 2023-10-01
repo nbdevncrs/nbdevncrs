@@ -1,7 +1,5 @@
-### Hi there 👋
-<img src="python.png">
-<img src="c.png">
-<img src="html.png">
+### hi there !
+things i code with<img src="python (1).png"><img src="c (1).png"><img src="html (1).png">
 
 <!--
 **nbdevncrs/nbdevncrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
